@@ -1,0 +1,9 @@
+# Nunca suba credenciais
+dbinfo.inc
+*.pem
+*.ppk
+**/inc/*
+
+# Lixo comum
+*.log
+.DS_Store
